@@ -22,3 +22,5 @@ The notebook covers the following tasks:
 * Creating a DataFrame from a dictionary.
 * Exporting and importing data using CSV files.
 * Inspecting data with `head()`, `describe()`, `shape`, `dtypes`, and `info()`.
+
+THANK YOU
